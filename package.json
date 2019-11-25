@@ -1,0 +1,12 @@
+{
+    "name": "node-examples",
+    "version": "1.0.0",
+    "description": "\"Simple Node Examples\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index"
+    },
+    "author": "Pawan Bothra",
+    "license": "ISC"
+}
